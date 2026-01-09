@@ -227,6 +227,25 @@ header ul{
     justify-content: center;
 }
 
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    text-align: center;
+    
+    color: white;
+}
 
+#footer{
+    background-color: #001931;
+    padding: 90px;
+    text-align: center;
+}
+
+#footer p{
+    color: white;
+    font-weight: 200;
+    margin-top: 30px;
+}
 
 
